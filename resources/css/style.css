@@ -22,6 +22,10 @@ header img {
   padding-left: 10px;
 }
 
+nav {
+  text-align: right;
+}
+
 header nav span {
   display: inline-block;
   text-decoration: underline;
